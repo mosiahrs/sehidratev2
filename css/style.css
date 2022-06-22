@@ -65,6 +65,7 @@ figure
     height: 100%;
     justify-content: flex-end;
     opacity: 0.98;
+    margin-bottom: 5px;
 }
 
 article
@@ -98,6 +99,17 @@ article
     color: blueviolet;
 }
 
+#entrada
+{
+    width: 150px;
+    height: 1.8rem;
+    border: 0.15em solid var(--clr-20);
+    border-radius: 8px;
+    color: blueviolet;
+    font-weight: bold;
+    background-color: hsl(var(--base-hue), var(--base-sat), 98%);
+}
+
 #enviaDados
 {
     background-color: hsl(var(--base-hue), var(--base-sat), 10%);
@@ -107,13 +119,15 @@ article
     cursor: pointer;
     border: 1px solid transparent;
     margin: 5px;
-    width: 80px;
+    width: 75px;
     opacity: 0.9;
 }
 #enviaDados:hover
 {
     background-color: blueviolet;
-    color: hsl(var(--base-hue), var(--base-sat), 95%)
+    color: hsl(var(--base-hue), var(--base-sat), 95%);
+    box-shadow: 3px 3px 5px hsl(var(--base-hue), var(--base-sat), 10%);
+    color: white;
 }
 
 .info header
