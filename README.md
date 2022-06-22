@@ -1,6 +1,6 @@
 # Se hidrate v.2
 
-Atualização do projeto <a hre="http://sehidrate-i3083oqah-mosiahrs.vercel.app">se hidrate</a>, utilizando as tags Semânticas do HTML5.
+Atualização do projeto <a href="http://sehidrate-i3083oqah-mosiahrs.vercel.app">se hidrate</a>, utilizando as tags Semânticas do HTML5.
 
 ## Tecnologias utilizadas
 <img src="https://img.shields.io/badge/html-FC490B?&style=for-the-badge&logo=html5&logoColor=white" height="25"/><img src="https://img.shields.io/badge/css-264DE4?style=for-the-badge&logo=css3&logoColor=white" height="25"/><img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
